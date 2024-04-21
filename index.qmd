@@ -1,3 +1,5 @@
 ---
 title: "Welcome to my site"
 ---
+
+I am a fourth-year student at the University of Toronto. I am interested in applying quantitative methods to answer biological questions. My interests have motivated me to learn a blend of theory and application across biology, mathematics, and statistics.

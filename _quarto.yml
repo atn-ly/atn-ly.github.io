@@ -5,15 +5,27 @@ project:
 website:
   title: "Tam Ly"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - research.qmd
       - text: "CV"
         href: cv-academic-Tam_Ly.pdf
 
+    right:
+      - text: "{{< iconify bi envelope width='24' title='E-mail' >}}"
+        href: "mailto:annatn.ly@mail.utoronto.ca"
+      - text: "{{< iconify bi github width='24' title='GitHub' >}}"
+        href: https://github.com/atn-ly
+
+  page-footer:
+    left: |
+      @2024 Tam Ly</span>
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+
 format:
   html:
-    theme: quartz
+    theme: zephyr
     css: styles.css
     toc: true

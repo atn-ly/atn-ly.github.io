@@ -1,9 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "About",
     "section": "",
     "text": "I am a fourth-year student at the University of Toronto. I am interested in applying quantitative methods to answer biological questions. My interests have motivated me to learn a blend of theory and application across biology, mathematics, and statistics.\nOutside of school I enjoy reading and writing, listening to music and playing the piano, and watching movies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "I am a fourth-year student at the University of Toronto. I am interested in applying quantitative methods to answer biological questions. My interests have motivated me to learn a blend of theory and application across biology, mathematics, and statistics."
   }
 ]
