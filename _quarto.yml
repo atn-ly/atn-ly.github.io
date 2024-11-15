@@ -20,7 +20,7 @@ website:
 
   page-footer:
     left: |
-      @2024 Tam Ly</span>
+      Last updated: Nov 15, 2024</span>
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
 
