@@ -1,0 +1,22 @@
+---
+title: "Anna Tam Ngoc Ly"
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  image: images/portrait-Tam_Ly.jpg
+  links:
+    - text: "CV"
+      href: cv-academic-Tam_Ly.pdf
+    - icon: envelope
+      text: "Email"
+      href: "mailto:annatn.ly@mail.utoronto.ca"
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/atn-ly
+---
+
+Hi, my name is Anna Tam Ngoc Ly! 👋
+
+* 📘 I'm an undergraduate student at the University of Toronto pursuing a Double Major in Mathematics and Quantitative Biology, as well as a Minor in Statistics.
+* 🌱 I'm interested in developing and applying mathematical and statistical models to address issues in public health.

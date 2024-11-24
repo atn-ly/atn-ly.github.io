@@ -1,0 +1,8 @@
+---
+title: "Research"
+---
+
+* Summer 2022: Duckweed and Marchantia Work-Study in the [Agrawal Lab](https://agrawal.eeb.utoronto.ca/)
+* Summer 2023: Modeling Evolution USRA in the [Osmond Lab](https://osmond-lab.github.io/)
+* Summer 2024: Tree Data Work-Study in the [Fortin Lab](https://fortin.eeb.utoronto.ca/)
+* Fall–Winter 2024: Modeling Mpox Work-Study in the [AIMM Lab](https://aimmlab.org/)

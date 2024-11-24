@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anna Tam Ngoc Ly"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - text: "CV"
+        href: cv-academic-Tam_Ly.pdf
+
+    right:
+      - text: "{{< iconify bi envelope width='24' title='E-mail' >}}"
+        href: "mailto:annatn.ly@mail.utoronto.ca"
+      - text: "{{< iconify bi github width='24' title='GitHub' >}}"
+        href: https://github.com/atn-ly
+
+  page-footer:
+    left: |
+      Last updated: Nov 24, 2024</span>
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
