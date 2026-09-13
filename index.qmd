@@ -1,0 +1,24 @@
+---
+title: "Anna Tam Ly"
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  image: images/Anna_Tam_Ly_Portrait.jpg
+  links:
+    - text: "Resume"
+      href: Anna_Tam_Ly_Resume_Website.pdf
+    - icon: envelope
+      text: "Email"
+      href: "mailto:atl2@ualberta.ca"
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/atn-ly
+---
+
+Hi, I’m Anna Tam Ly! 👋
+
+* 📖 I’m completing an MSc in Mathematical and Statistical Sciences, specializing in Modelling, Data, and Predictions, at the University of Alberta.
+* 📘 I completed an HBSc at the University of Toronto, with a double major in Mathematics and Quantitative Biology and a minor in Statistics.
+* 💻 I use data science, machine learning, and mathematical and statistical modelling to analyze complex data and build practical tools.
+* 🌱 I’m interested in applying these skills to biology, public health, and other real-world problems.

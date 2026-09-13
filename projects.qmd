@@ -1,0 +1,12 @@
+---
+title: "Projects"
+format: html
+---
+
+* Summer 2026: Automated Multimodal Traffic Counter App for the [OSBA](https://oldstrathcona.ca/)
+<iframe width="100%" height="500"
+  src="https://www.youtube.com/embed/BRXLsiKIERQ"
+  title="OSBA Traffic Counter App Demo"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
