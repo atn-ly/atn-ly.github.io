@@ -21,7 +21,7 @@ website:
 
   page-footer:
     left: |
-      Last updated: Oct 9, 2026</span>
+      Last updated: Oct 28, 2026</span>
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
 
